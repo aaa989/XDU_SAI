@@ -1,0 +1,73 @@
+//************************************************
+//*** first generated on 27th,may,2017 ***********
+//***
+//***
+//************************************************
+
+module  test_cla16bit  ( );
+
+reg [15:0] ain,bin;
+reg       cin;
+
+initial
+  begin
+    #0    cin = 1'b0;
+          ain = 16'd0;
+          bin = 16'd0;
+    #100  ain = 16'd32767;
+          bin = 16'd32768;
+    #100  ain = 16'd32767;
+          bin = 16'd15536;
+    #100  ain = 16'd32767;
+          bin = 16'd8192;
+    #100  ain = 16'd32767;
+          bin = 16'd4096;
+    #100  cin = 1'b1;
+          ain = 16'd32767;
+          bin = 16'd32768;
+    #100  cin = 1'b0;
+          ain = 16'd6;
+          bin = 16'd7;
+    #100  ain = 16'd7;
+          bin = 16'd8;
+    #100  cin = 1'b1;
+          ain = 16'd7;
+          bin = 16'd8;
+    #100  ain = 16'd0;
+          bin = 16'd1;
+    #100  ain = 16'd1;
+          bin = 16'd1;
+    #100  ain = 16'd2;
+          bin = 16'd2;
+    #100  ain = 16'd3;
+          bin = 16'd3;
+    #100  cin = 1'b0;
+          ain = 16'd4;
+          bin = 16'd4;
+    #100  cin = 1'b1;
+          ain = 16'd5;
+          bin = 16'd5;
+    #100  ain = 16'd6;
+          bin = 16'd6;
+    #100  cin = 1'b1;
+          ain = 16'd7;
+          bin = 16'd7;
+    #100  cin = 1'b0;
+          ain = 16'd8;
+          bin = 16'd8;
+    #100  cin = 1'b1;
+          ain = 16'd8;
+          bin = 16'd8;
+    #100  cin = 1'b1;
+          ain = 16'd8;
+          bin = 16'd9;
+  end
+  
+  //*** connect with circuit to be tested ***
+  wire  [15:0] sum_out;
+  wire         cout_out;
+  
+  bit16_cla  u0 (.ain(ain),.bin(bin),.cin(cin),.sum(sum_out),.cout(cout_out));
+  
+endmodule
+

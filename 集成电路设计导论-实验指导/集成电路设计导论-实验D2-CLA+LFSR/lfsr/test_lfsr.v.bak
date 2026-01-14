@@ -1,0 +1,46 @@
+`timescale  1ns/1ps
+
+//********************************************
+//*** first generated on 28th,may,2017 *******
+//********************************************
+
+module  test_lfsr( );      // ???test_lfsr
+  
+reg   t_async_rst, t_sync_rst;
+reg   t_clk;
+
+wire  [3:0] test_out;       // ??4???
+
+//*** test signal generation ***
+
+//*** async_rst ***
+initial
+	begin
+  		#0      t_async_rst = 1'b1;
+		#50     t_async_rst = 1'b0;
+		#50     t_async_rst = 1'b1;
+   end
+   
+//*** sync_rst ***
+initial
+	begin
+  		#0      t_sync_rst = 1'b0;
+		#201    t_sync_rst = 1'b1;
+		#51     t_sync_rst = 1'b0;
+   end
+   
+//*** clk ***
+initial
+  begin 
+    t_clk = 1'b0;
+  end
+   
+always #50 t_clk = ~t_clk;
+
+//*** connect with the circuit to be tested ***
+// ???4?LFSR
+lfsr4   lfsr  (.async_rst(t_async_rst), .sync_rst(t_sync_rst), 
+               .clk(t_clk), .cnt_out(test_out));
+
+
+endmodule

@@ -1,0 +1,36 @@
+D:/16bit_cla/bit4cla_logic.v {1 {vlog -work work -vopt D:/16bit_cla/bit4cla_logic.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module bit4cla_logic
+
+Top level modules:
+	bit4cla_logic
+
+} {} {}} D:/16bit_cla/bit16_cla.v {1 {vlog -work work -vopt D:/16bit_cla/bit16_cla.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module bit16_cla
+
+Top level modules:
+	bit16_cla
+
+} {} {}} D:/16bit_cla/bit4_cla.v {1 {vlog -work work -vopt D:/16bit_cla/bit4_cla.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module bit4_cla
+
+Top level modules:
+	bit4_cla
+
+} {} {}} D:/16bit_cla/full_adder.v {1 {vlog -work work -vopt D:/16bit_cla/full_adder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} D:/16bit_cla/test_cla4bit.v {1 {vlog -work work -vopt D:/16bit_cla/test_cla4bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_cla4bit
+
+Top level modules:
+	test_cla4bit
+
+} {} {}}

@@ -1,0 +1,15 @@
+{D:/My Work/ASIC_Exercise_1/testbench.v} {1 {vlog -work work -vopt -nocovercells {D:\My Work\ASIC_Exercise_1\testbench.v}
+Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/My Work/ASIC_Exercise_1/exercise_1.v} {1 {vlog -work work -vopt -nocovercells {D:\My Work\ASIC_Exercise_1\exercise_1.v}
+Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module exercise_1
+
+Top level modules:
+	exercise_1
+
+} {} {}}

@@ -1,0 +1,121 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples
+T_opt
+VZbi3RY<d7R6_WG@N6nh0>1
+04 13 4 work test_cla16bit fast 0
+=1-408d5cbce90b-592952ff-393-14dc
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+Z1 dC:\modeltech64_10.1c\examples
+vbit16_cla
+V9iOTSF6jzLlRUKCXmAWaQ3
+r1
+31
+I0`OmjjWh?adNefV;9c^Sm1
+Z2 dD:\16bit_cla
+w1495880900
+8D:/16bit_cla/bit16_cla.v
+FD:/16bit_cla/bit16_cla.v
+L0 7
+Z3 OL;L;10.1c;51
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s100 mRMBIA?jTP0]W<^g=d51I3
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/bit16_cla.v|
+!s108 1495881789.828000
+!s107 D:/16bit_cla/bit16_cla.v|
+!i10b 1
+vbit4_cla
+VHEjRYLbiZgDA`>4Egl<FK0
+r1
+31
+IZJ]8Gl]0>6c4E24R]Hd0:3
+R2
+w1495881327
+8D:/16bit_cla/bit4_cla.v
+FD:/16bit_cla/bit4_cla.v
+L0 7
+R3
+R4
+!s85 0
+!s100 ?c<f8b0Pk`UMGlWHjEBIF2
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/bit4_cla.v|
+!s108 1495881789.728000
+!s107 D:/16bit_cla/bit4_cla.v|
+!i10b 1
+vbit4cla_logic
+V3c;5f=ob9>O=UBD16V4U>0
+r1
+!s85 0
+31
+IG>UAiY[<h9k7Kz`5C@B:I1
+R2
+w1495873719
+8D:/16bit_cla/bit4cla_logic.v
+FD:/16bit_cla/bit4cla_logic.v
+L0 7
+R3
+R4
+!s100 R_<gTA]nMI9L?LVYH>m@]3
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/bit4cla_logic.v|
+!s108 1495881789.673000
+!s107 D:/16bit_cla/bit4cla_logic.v|
+!i10b 1
+vfull_adder
+VeL9ieKm[c>?`efgZo[k3X0
+r1
+31
+I7=jfcbN7IAl;ChWP]km3J0
+R2
+w1495872721
+8D:/16bit_cla/full_adder.v
+FD:/16bit_cla/full_adder.v
+L0 7
+R3
+R4
+!s85 0
+!s100 oC98O5dEfK:W5aUZD8ABV0
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/full_adder.v|
+!s108 1495881789.626000
+!s107 D:/16bit_cla/full_adder.v|
+!i10b 1
+vtest_cla16bit
+V8bThz2MNS:ID4gfGPSUhh1
+r1
+31
+Ib>[;1`A1>LQOG3HIk1<?>3
+R2
+w1495881760
+8D:/16bit_cla/test_cla16bit.v
+FD:/16bit_cla/test_cla16bit.v
+L0 7
+R3
+R4
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/test_cla16bit.v|
+!i10b 1
+!s100 0GZf:dXK?Jhj6oK5ocE<D3
+!s108 1495881789.882000
+!s107 D:/16bit_cla/test_cla16bit.v|
+vtest_cla4bit
+IO<3P5=iQYP6L633_VSWLZ0
+VXDA3MbD`jH2EmKzBg[g:l3
+R2
+w1495876719
+8D:/16bit_cla/test_cla4bit.v
+FD:/16bit_cla/test_cla4bit.v
+L0 7
+R3
+r1
+31
+R4
+!s100 9AknK@cG2THk02BVcT8QX2
+!s90 -reportprogress|300|-work|work|-vopt|D:/16bit_cla/test_cla4bit.v|
+!s108 1495881789.779000
+!s107 D:/16bit_cla/test_cla4bit.v|
+!i10b 1
+!s85 0

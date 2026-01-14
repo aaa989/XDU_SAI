@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dD:\16bit_cla
+T_opt
+V3ZN8?FXA4JDj0QL;CddAd1
+04 9 4 work tset_lfsr fast 0
+=1-408d5cbce90b-592a1b8c-1ab-6ec
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vlfsr5
+!s100 1DmV8[O8RA@Eim`IV;Z5;3
+INgb^bDfW?hT6`2P3zfFUH3
+V^C`F3CQ41beViQ`7z[oJC2
+Z0 dD:\lfsr
+w1495931133
+8D:/lfsr/lfsr5.v
+FD:/lfsr/lfsr5.v
+L0 6
+Z1 OL;L;10.1c;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|D:/lfsr/lfsr5.v|
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1495931779.083000
+!s107 D:/lfsr/lfsr5.v|
+!i10b 1
+!s85 0
+vtset_lfsr
+I_Yj?^^]eeoD0SN4ccOhDE1
+V>dH1I9zRK670E1EY]4kGE1
+Z3 dD:\lfsr
+w1495931774
+8D:/lfsr/test_lfsr.v
+FD:/lfsr/test_lfsr.v
+L0 5
+R1
+r1
+31
+R2
+!i10b 1
+!s100 aFM]OKme7Y^h_Jk;WE9Hn3
+!s85 0
+!s108 1495931779.130000
+!s107 D:/lfsr/test_lfsr.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/lfsr/test_lfsr.v|

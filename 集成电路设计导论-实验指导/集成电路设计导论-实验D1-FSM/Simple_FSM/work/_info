@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\My Work\New_ASIP
+T_opt
+V?ZcDE[jeVlg_3U]9=W4>90
+04 9 4 work testbench fast 0
+=1-001641129c62-51c26b27-135-22c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.0c;49
+Z1 dD:\My Work\New_ASIP
+vexercise_1
+VZId`^5gKA0idHE[]29MMb2
+r1
+!s85 0
+31
+IAX1NSehiZ3?45Qn@__NH>3
+Z2 dD:\My Work\ASIC_Exercise_1
+w1371715967
+8D:\My Work\ASIC_Exercise_1\exercise_1.v
+FD:\My Work\ASIC_Exercise_1\exercise_1.v
+L0 12
+Z3 OE;L;10.0c;49
+Z4 !s102 -nocovercells
+Z5 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 ZYN_XKYjUf8oz9Vg2kgM13
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\My Work\ASIC_Exercise_1\exercise_1.v|
+!s108 1371716137.075000
+!s107 D:\My Work\ASIC_Exercise_1\exercise_1.v|
+vtestbench
+VhGfW:390DM[oDMzegDH9`2
+r1
+31
+IfVNTRezDDZaiFmOi2Uz^92
+R2
+w1371716133
+8D:\My Work\ASIC_Exercise_1\testbench.v
+FD:\My Work\ASIC_Exercise_1\testbench.v
+L0 5
+R3
+R4
+R5
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\My Work\ASIC_Exercise_1\testbench.v|
+!s100 a>NkhmJU_EDNRY?ldod4m0
+!s108 1371716137.506000
+!s107 D:\My Work\ASIC_Exercise_1\testbench.v|
