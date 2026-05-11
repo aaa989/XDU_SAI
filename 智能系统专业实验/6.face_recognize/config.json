@@ -1,0 +1,19 @@
+{
+  "name": "fer_new",
+  "version": "1.0.0",
+  "model_config": {
+    "train_data_root": "./CH6/train",
+    "test_data_root": "./CH6/val",
+    "val_rate": 0.0,
+    "num_class": 7,
+    "device": "cuda:0",
+    "seed": 42,
+    "save_path": "save_path/",
+    "batch_size": 8,
+    "epochs": 30,
+    "img_size": 224,
+    "learning_rate": 0.000035,
+    "weight_decay": 1e-4,
+    "optimizer": "Adam"
+  }
+}

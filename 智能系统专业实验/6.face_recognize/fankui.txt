@@ -1,0 +1,106 @@
+D:\app\miniconda\envs\pytorch\python.exe D:\app\基本组件\Desktop\shiyan\6.face_recognize\main.py 
+D:\app\miniconda\envs\pytorch\lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+D:\app\miniconda\envs\pytorch\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+[train epoch 0] loss: 1.287, acc: 0.524: 100%|██████████| 379/379 [00:59<00:00,  6.41it/s]
+[test epoch 0] loss: 1.043, acc: 0.648: 100%|██████████| 98/98 [00:49<00:00,  1.97it/s]
+[train epoch 1] loss: 0.898, acc: 0.684: 100%|██████████| 379/379 [00:58<00:00,  6.52it/s]
+[test epoch 1] loss: 0.911, acc: 0.683: 100%|██████████| 98/98 [00:49<00:00,  1.97it/s]
+[train epoch 2] loss: 0.692, acc: 0.765: 100%|██████████| 379/379 [00:58<00:00,  6.52it/s]
+[test epoch 2] loss: 0.858, acc: 0.707: 100%|██████████| 98/98 [00:49<00:00,  1.96it/s]
+[train epoch 3] loss: 0.558, acc: 0.812: 100%|██████████| 379/379 [00:57<00:00,  6.56it/s]
+[test epoch 3] loss: 0.814, acc: 0.720: 100%|██████████| 98/98 [00:49<00:00,  1.99it/s]
+[train epoch 4] loss: 0.448, acc: 0.848: 100%|██████████| 379/379 [00:57<00:00,  6.59it/s]
+[test epoch 4] loss: 0.840, acc: 0.737: 100%|██████████| 98/98 [00:49<00:00,  1.99it/s]
+[train epoch 5] loss: 0.314, acc: 0.896: 100%|██████████| 379/379 [00:57<00:00,  6.56it/s]
+[test epoch 5] loss: 0.864, acc: 0.729: 100%|██████████| 98/98 [00:47<00:00,  2.07it/s]
+[train epoch 6] loss: 0.272, acc: 0.917: 100%|██████████| 379/379 [00:54<00:00,  6.90it/s]
+[test epoch 6] loss: 0.827, acc: 0.723: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 7] loss: 0.233, acc: 0.927: 100%|██████████| 379/379 [00:54<00:00,  6.92it/s]
+[test epoch 7] loss: 0.817, acc: 0.745: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 8] loss: 0.213, acc: 0.934: 100%|██████████| 379/379 [00:54<00:00,  6.91it/s]
+[test epoch 8] loss: 0.836, acc: 0.748: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 9] loss: 0.150, acc: 0.959: 100%|██████████| 379/379 [00:54<00:00,  6.93it/s]
+[test epoch 9] loss: 0.842, acc: 0.750: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 10] loss: 0.118, acc: 0.971: 100%|██████████| 379/379 [00:54<00:00,  6.93it/s]
+[test epoch 10] loss: 0.860, acc: 0.746: 100%|██████████| 98/98 [00:46<00:00,  2.09it/s]
+[train epoch 11] loss: 0.103, acc: 0.971: 100%|██████████| 379/379 [00:55<00:00,  6.88it/s]
+[test epoch 11] loss: 0.836, acc: 0.770: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 12] loss: 0.092, acc: 0.975: 100%|██████████| 379/379 [00:55<00:00,  6.89it/s]
+[test epoch 12] loss: 0.916, acc: 0.752: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 13] loss: 0.099, acc: 0.975: 100%|██████████| 379/379 [00:55<00:00,  6.89it/s]
+[test epoch 13] loss: 0.965, acc: 0.751: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 14] loss: 0.069, acc: 0.981: 100%|██████████| 379/379 [00:55<00:00,  6.87it/s]
+[test epoch 14] loss: 0.880, acc: 0.757: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 15] loss: 0.066, acc: 0.987: 100%|██████████| 379/379 [00:54<00:00,  6.90it/s]
+[test epoch 15] loss: 0.900, acc: 0.768: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 16] loss: 0.058, acc: 0.988: 100%|██████████| 379/379 [00:54<00:00,  6.94it/s]
+[test epoch 16] loss: 0.942, acc: 0.745: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 17] loss: 0.053, acc: 0.987: 100%|██████████| 379/379 [00:54<00:00,  6.93it/s]
+[test epoch 17] loss: 0.860, acc: 0.764: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 18] loss: 0.049, acc: 0.989: 100%|██████████| 379/379 [00:54<00:00,  6.89it/s]
+[test epoch 18] loss: 0.871, acc: 0.766: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 19] loss: 0.041, acc: 0.990: 100%|██████████| 379/379 [00:54<00:00,  6.90it/s]
+[test epoch 19] loss: 0.887, acc: 0.764: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 20] loss: 0.039, acc: 0.993: 100%|██████████| 379/379 [00:55<00:00,  6.87it/s]
+[test epoch 20] loss: 0.873, acc: 0.761: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 21] loss: 0.039, acc: 0.992: 100%|██████████| 379/379 [00:55<00:00,  6.88it/s]
+[test epoch 21] loss: 0.887, acc: 0.763: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 22] loss: 0.034, acc: 0.993: 100%|██████████| 379/379 [00:54<00:00,  6.92it/s]
+[test epoch 22] loss: 0.913, acc: 0.772: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 23] loss: 0.028, acc: 0.995: 100%|██████████| 379/379 [00:54<00:00,  6.91it/s]
+[test epoch 23] loss: 0.872, acc: 0.770: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 24] loss: 0.030, acc: 0.994: 100%|██████████| 379/379 [00:54<00:00,  6.95it/s]
+[test epoch 24] loss: 0.900, acc: 0.768: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 25] loss: 0.025, acc: 0.995: 100%|██████████| 379/379 [00:54<00:00,  6.94it/s]
+[test epoch 25] loss: 0.902, acc: 0.772: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 26] loss: 0.029, acc: 0.995: 100%|██████████| 379/379 [00:54<00:00,  6.93it/s]
+[test epoch 26] loss: 0.895, acc: 0.768: 100%|██████████| 98/98 [00:46<00:00,  2.11it/s]
+[train epoch 27] loss: 0.024, acc: 0.995: 100%|██████████| 379/379 [00:54<00:00,  6.91it/s]
+[test epoch 27] loss: 0.923, acc: 0.766: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 28] loss: 0.026, acc: 0.996: 100%|██████████| 379/379 [00:54<00:00,  6.90it/s]
+[test epoch 28] loss: 0.897, acc: 0.772: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+[train epoch 29] loss: 0.028, acc: 0.995: 100%|██████████| 379/379 [00:54<00:00,  6.90it/s]
+[test epoch 29] loss: 0.912, acc: 0.768: 100%|██████████| 98/98 [00:46<00:00,  2.10it/s]
+
+===== Starting Pruning =====
+D:\app\基本组件\Desktop\shiyan\6.face_recognize\main.py:97: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(os.path.join(config['save_path'], "best_model.pth"), map_location=device)
+D:\app\miniconda\envs\pytorch\lib\site-packages\torch_pruning\pruner\algorithms\base_pruner.py:91: UserWarning: ch_sparsity is deprecated in v1.3.0. Please use pruning_ratio.
+  warnings.warn(
+Base Params: 11.18 M, Base MACs: 1.82 G
+Step 1: Params: 10.91 M, MACs: 1.77 G
+Step 2: Params: 10.69 M, MACs: 1.73 G
+Step 3: Params: 10.49 M, MACs: 1.71 G
+Step 4: Params: 10.26 M, MACs: 1.67 G
+Step 5: Params: 10.07 M, MACs: 1.63 G
+Step 6: Params: 9.86 M, MACs: 1.61 G
+Step 7: Params: 9.66 M, MACs: 1.57 G
+Step 8: Params: 9.44 M, MACs: 1.53 G
+Step 9: Params: 9.21 M, MACs: 1.51 G
+Step 10: Params: 9.02 M, MACs: 1.47 G
+Step 11: Params: 8.81 M, MACs: 1.43 G
+Step 12: Params: 8.63 M, MACs: 1.41 G
+Step 13: Params: 8.43 M, MACs: 1.38 G
+Step 14: Params: 8.26 M, MACs: 1.36 G
+Step 15: Params: 8.06 M, MACs: 1.32 G
+Step 16: Params: 7.88 M, MACs: 1.29 G
+Step 17: Params: 7.67 M, MACs: 1.27 G
+Step 18: Params: 7.47 M, MACs: 1.23 G
+Step 19: Params: 7.31 M, MACs: 1.20 G
+Step 20: Params: 7.13 M, MACs: 1.18 G
+Step 21: Params: 6.96 M, MACs: 1.15 G
+Step 22: Params: 6.78 M, MACs: 1.11 G
+Step 23: Params: 6.62 M, MACs: 1.10 G
+Step 24: Params: 6.45 M, MACs: 1.06 G
+Step 25: Params: 6.29 M, MACs: 1.05 G
+Step 26: Params: 6.09 M, MACs: 1.01 G
+Step 27: Params: 5.93 M, MACs: 0.98 G
+Step 28: Params: 5.78 M, MACs: 0.97 G
+Step 29: Params: 5.61 M, MACs: 0.93 G
+Step 30: Params: 5.46 M, MACs: 0.91 G
+Final Params reduction: 2.05x, MACs reduction: 2.01x
+Pruning finished. Model saved.
+
+进程已结束,退出代码0
