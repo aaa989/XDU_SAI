@@ -1,0 +1,54 @@
+X:\5.11计算智能导论\.venv\Scripts\python.exe X:\5.11计算智能导论\吟诗作赋\train.py
+[设备] GPU NVIDIA GeForce RTX 5070 Ti | 显存约 15.9 GiB
+vocab_size=8877, corpus_chars=1230322, poem_lines=79137
+epoch 1/12: 100%|██████████| 4805/4805 [03:27<00:00, 23.11it/s]
+epoch 1 loss: 3.8820
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 2/12: 100%|██████████| 4805/4805 [03:32<00:00, 22.61it/s]
+epoch 2 loss: 1.7961
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+epoch 3/12:   0%|          | 0/4805 [00:00<?, ?it/s]saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 3/12: 100%|██████████| 4805/4805 [03:19<00:00, 24.06it/s]
+epoch 3 loss: 1.2117
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 4/12: 100%|██████████| 4805/4805 [03:16<00:00, 24.45it/s]
+epoch 4 loss: 1.0237
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 5/12: 100%|██████████| 4805/4805 [03:20<00:00, 23.99it/s]
+epoch 5 loss: 0.9381
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 6/12: 100%|██████████| 4805/4805 [03:15<00:00, 24.56it/s]
+epoch 6 loss: 0.8874
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+epoch 7/12:   0%|          | 0/4805 [00:00<?, ?it/s]saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 7/12: 100%|██████████| 4805/4805 [03:15<00:00, 24.56it/s]
+epoch 7 loss: 0.8524
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 8/12: 100%|██████████| 4805/4805 [03:18<00:00, 24.16it/s]
+epoch 8 loss: 0.8257
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 9/12: 100%|██████████| 4805/4805 [03:16<00:00, 24.48it/s]
+epoch 9 loss: 0.8043
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 10/12: 100%|██████████| 4805/4805 [03:21<00:00, 23.87it/s]
+epoch 10 loss: 0.7864
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+epoch 11/12:   0%|          | 0/4805 [00:00<?, ?it/s]saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 11/12: 100%|██████████| 4805/4805 [03:17<00:00, 24.33it/s]
+epoch 11 loss: 0.7714
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+epoch 12/12:   0%|          | 0/4805 [00:00<?, ?it/s]saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+epoch 12/12: 100%|██████████| 4805/4805 [03:20<00:00, 24.01it/s]
+epoch 12 loss: 0.7584
+saved best X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+saved last X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm_last.pt（可加 --resume 续训）
+训练结束，最佳权重: X:\5.11计算智能导论\吟诗作赋\checkpoints\char_lstm.pt
+
+进程已结束，退出代码为 0
